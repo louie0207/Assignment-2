@@ -1,0 +1,18 @@
+{
+  "weights": "assignment2/checkpoints/cifar_speccnn64.pth",
+  "in_size": 64,
+  "in_channels": 3,
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "model_name": "SpecCNN64"
+}
